@@ -153,6 +153,8 @@ Github Username: 'mustaqeemtariq'
 [instagram]: https://instagram.com/mustaqeemtariq?igshid=MzNlNGNkZWQ4Mg
 [linkedin]: https://www.linkedin.com/in/mustaqeem-tariq/
 
+![](https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange)
+
 
 #### Thank You-🙏🏼
 
