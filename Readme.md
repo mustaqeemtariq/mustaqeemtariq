@@ -98,6 +98,7 @@ Github Username: 'mustaqeemtariq'
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 1 million Lines of Code ✍️**
+![](https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange)
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
@@ -152,8 +153,6 @@ Github Username: 'mustaqeemtariq'
 
 [instagram]: https://instagram.com/mustaqeemtariq?igshid=MzNlNGNkZWQ4Mg
 [linkedin]: https://www.linkedin.com/in/mustaqeem-tariq/
-
-![](https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange)
 
 
 #### Thank You-🙏🏼
