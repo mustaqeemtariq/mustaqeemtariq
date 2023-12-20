@@ -98,7 +98,9 @@ Github Username: 'mustaqeemtariq'
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 1 million Lines of Code ✍️**
-![](https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange)
+<br/> <!-- This adds a new line -->
+
+<img src="https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange" width="500">
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
