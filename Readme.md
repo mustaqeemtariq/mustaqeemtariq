@@ -5,6 +5,7 @@ Favorite Color: 🟠 Orange
 Favorite Books: ["Harry Potter", "Maze Runner"]
 Github Username: 'mustaqeemtariq'
 ---
+<br />
 <p>
   <h1 align="center"><b>Hello there, I'm Mustaqeem 🐼</b></h1>
 </p>
