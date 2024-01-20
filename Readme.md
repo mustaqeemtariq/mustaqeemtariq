@@ -5,10 +5,8 @@ Favorite Color: 🟠 Orange
 Favorite Books: ["Harry Potter", "Maze Runner"]
 Github Username: 'mustaqeemtariq'
 ---
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Mustaqeem 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Mustaqeem 🐼</b></h1>
 </p>
 
 <p>
@@ -100,7 +98,7 @@ Github Username: 'mustaqeemtariq'
 **From Hello World I have written 1 million Lines of Code ✍️**
 <br/> <!-- This adds a new line -->
 
-<img src="https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange&base=421" width="150">
+<img src="https://komarev.com/ghpvc/?username=mustaqeemtariq&color=orange&base=421&abbreviated" width="200">
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
