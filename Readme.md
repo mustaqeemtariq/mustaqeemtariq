@@ -7,7 +7,7 @@ Github Username: 'mustaqeemtariq'
 ---
 <br />
 <p>
-  <h1 align="center"><b>Hello there, I'm Mustaqeem 🐼</b></h1>
+  <h1 align="center"><b>Hello there, I'm Mustaqeem</b></h1>
 </p>
 
 <p>
