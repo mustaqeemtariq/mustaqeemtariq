@@ -2,7 +2,7 @@
 Title: Mustaqeem-Tariq
 Date: '2001-02-15'
 Favorite Color: 🟠 Orange
-Favorite Books: ["Harry Potter", "Maze Runner"]
+Favorite Books: ["Harry Potter", "Percy Jackson"]
 Github Username: 'mustaqeemtariq'
 ---
 <br />
